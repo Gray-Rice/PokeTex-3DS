@@ -1,9 +1,13 @@
 # PokeTex-3DS
 
 This repository aims to be an archive for 3DS Pokemon texture packs from the Citra project forum now taken down by nintendo.I am creating this archive so anyone in the future would find it usefull for their playthrough.<br>
-Check [releases](https://github.com/Gray-Rice/PokeTex-3DS/releases) for packs.
+
 
 ### DISCLAIMER: I do not claim these work as my own, this can be considered just an archive for most purposes. With sole exception of some textures for Pokemon X which contain textures I personally made. The credits are for the respective creators who spent their time to create these. 
+
+# Usage
+Check [releases](https://github.com/Gray-Rice/PokeTex-3DS/releases) for packs.<br>
+Extract the packs and rename the folder according to respective game title ID and place in the 'Textures' folder of the emulator. Should work with citra and its forks
 
 # Ultra Sun and Moon 
 Texture pack by [Volya](https://x.com/VolyaVolyaVolya) <br> [Demo](https://www.youtube.com/watch?v=4iukcTSoR9E).
