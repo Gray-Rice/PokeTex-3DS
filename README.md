@@ -5,7 +5,7 @@ This repository aims to be an archive for 3DS Pokemon texture packs from the Cit
 ## DISCLAIMER: I do not claim these work as my own, this can be considered just an archive for most purposes. With sole exception of some textures for Pokemon X which contain textures I personally worked on. The credits are for the respective creators who spent their time to create these. 
 
 # Ultra Sun and Moon 
-Texture pack by [Volya](https://x.com/VolyaVolyaVolya) [Demo](https://www.youtube.com/watch?v=4iukcTSoR9E).<br>
+Texture pack by [Volya](https://x.com/VolyaVolyaVolya) <br> [Demo](https://www.youtube.com/watch?v=4iukcTSoR9E).
 Last updated on 24/05/23 <br>
 
 # Omega Ruby and Alpha Saphire
