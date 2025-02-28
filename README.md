@@ -7,9 +7,9 @@ This repository serves as an archive for 3DS Pokémon texture packs originally s
 
 ## **Usage**  
 1. Check the [Releases](https://github.com/Gray-Rice/PokeTex-3DS/releases) section for available texture packs.<br>
-2. Extract the packs and rename the folder according to the corresponding game’s title ID.<br> 
+2. Extract the packs and rename the folder according to the corresponding game’s title ID (given in release description for english versions, may vary for other languages).<br> 
 3. Place the folder in the `Textures` directory of your emulator.<br>
-   These packs should work with Citra and its forks.  
+   These packs should work with Citra and its forks.
 
 ### **Available Texture Packs**  
 
